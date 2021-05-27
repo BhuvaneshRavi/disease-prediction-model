@@ -31,5 +31,6 @@ Please refer to the research paper(unpublished) Disease Prediction on Genetic Mi
 ## Contributions:
 1. <a href= "https://github.com/BhuvaneshRavi">Bhuvaneshwaran Ravi</a>
 2. <a href= "https://github.com/serlintamilselvam">Serlin Tamilselvam</a>
-3. <a> Jayashree Srinivasan </a>
+3. <a href= "https://github.com/rangakamesh">Kameswaran Rangasamy</a>
+4. <a> Jayashree Srinivasan </a>
 
