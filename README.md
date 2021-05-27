@@ -25,3 +25,11 @@ The Extra Tree classifier is particularly effective at classifying this particul
 
 ## Results/Inference:
 In this project, we developed and compared several machine learning classifiers for predicting disease using dataset collected from gene microarray. The classifiers are trained in the labelled training gene samples and predicted on the provided unlabeled test sample. The most efficient classifier among them was identified as Extra Tree Classifier with best accuracy rate. Based on the proposed classification model, the disease prediction can be done for any sample collected over the microarray and the patient can be diagnosed in a most efficient manner.
+
+Please refer to the research paper(unpublished) Disease Prediction on Genetic Microarray Data.pdf for futher explanation. 
+
+## Contributions:
+1. <a href= "https://github.com/BhuvaneshRavi">Bhuvaneshwaran Ravi</a>
+2. <a href= "https://github.com/serlintamilselvam">Serlin Tamilselvam</a>
+3. <a> Jayashree Srinivasan </a>
+
