@@ -19,9 +19,9 @@ Prediction model is developed using different algorithms - Gaussian Naïve Bayes
 The Extra Tree classifier is particularly effective at classifying this particular gene sample with optimal k value 25. The classification is accurate ~95% of the time (this is validated against a pre-defined validation dataset fed into the model during the train/test phase). 
 
 ## Visualisation Model Performance and Validation:
-![Alt text](results/error_rate_gene_subsets.jpg?raw=true "Error Rate Gene Subset")
+![Alt text](results/error_rate_gene_subsets.JPG?raw=true "Error Rate Gene Subset")
 
-![Alt text](results/error_rate_heatmap.jpg?raw=true "Error Rate HeatMap")
+![Alt text](results/error_rate_heatmap.JPG?raw=true "Error Rate HeatMap")
 
 ## Results/Inference:
 In this project, we developed and compared several machine learning classifiers for predicting disease using dataset collected from gene microarray. The classifiers are trained in the labelled training gene samples and predicted on the provided unlabeled test sample. The most efficient classifier among them was identified as Extra Tree Classifier with best accuracy rate. Based on the proposed classification model, the disease prediction can be done for any sample collected over the microarray and the patient can be diagnosed in a most efficient manner.
